@@ -45,15 +45,13 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## How to Run
 
 ```bash
-# unit tests
-$ npm run test
 
-# e2e tests
-$ npm run test:e2e
+#1.go to brower
+#2.type http://localhost:5000
+#3.sign in with google
+#4.Your name and Email Id will displayed in protected route
 
-# test coverage
-$ npm run test:cov
 ```
